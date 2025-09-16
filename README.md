@@ -22,7 +22,7 @@
 </td>
 <td width="400" align="left">
 
-### 👋 **Hi, I'm Luka!**
+### 👋 **Hi, I'm Kazuko!**
 🚀 **Full Stack Developer** passionate about full stack development  
 
 🌍 **Location:** Japan 🇯🇵  
