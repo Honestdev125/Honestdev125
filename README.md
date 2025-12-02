@@ -3,7 +3,7 @@
 <h1 align="center">
  
  <a href="https://honestdev125_in/" target="_blank">
- <img src="https://readme-typing-svg.herokuapp.com?font=Tourney&weight=900&size=30&duration=4000&pause=5000&color=1e90ff&center=true&vCenter=true&repeat=true&random=false&width=600&lines=こんにちは、+川口・+ 冬馬です。;フルスタック開発者です。" alt="Hey there 🙋‍♂️" />
+ <img src="https://readme-typing-svg.herokuapp.com?font=Tourney&weight=900&size=30&duration=4000&pause=5000&color=1e90ff&center=true&vCenter=true&repeat=true&random=false&width=600&lines=こんにちは、+ 川口 + 冬馬です。;フルスタック開発者です />
  </a>
  </h1>
 
